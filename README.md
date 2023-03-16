@@ -45,3 +45,5 @@ __[Find_Median](https://www.hackerrank.com/test/eoipgdk427n/login?b=eyJocnNjIjp0
 __[Pattern_Syntax_Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker)__
 * Simple solve with try/catch block and Pattern.compile
 
+__[Java_Regex](https://www.hackerrank.com/challenges/java-regex)__
+* Regular expression 
