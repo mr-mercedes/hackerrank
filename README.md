@@ -32,3 +32,7 @@ is the solve with Java Stream API (forEach)
   private static void printRatio(Float f) {
   System.out.printf("%.6f\n", f);
   }``
+
+__[Mini-Max Sum](https://www.hackerrank.com/challenges/one-week-preparation-kit-mini-max-sum)__
+* Solve with Collections.sort and add custom function sum with 2 arguments List<Integer> and boolean marker
+
