@@ -39,3 +39,6 @@ __[Mini-Max Sum](https://www.hackerrank.com/challenges/one-week-preparation-kit-
 __[Time Conversion](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion)__
 * Solve with if-else construction and String.format
 
+__[Find_Median](https://www.hackerrank.com/test/eoipgdk427n/login?b=eyJocnNjIjp0cnVlLCJocnNjX3NyYyI6ImpvYnNhcHAiLCJoaWRlIjp0cnVlLCJqb2JfaWQiOm51bGwsInVzZXJuYW1lIjoiZWt5ZDkxQG1haWwucnUiLCJwYXNzd29yZCI6ImJhNjVlMzJkIiwiaGlkZVN3aXRjaEFjY291bnQiOnRydWUsImhpZGVTaGFyZUhhY2tlclByb2ZpbGUiOnRydWUsImFjY29tbW9kYXRpb25zIjpudWxsfQ==)__
+* Simple solve with Collections.sort
+
