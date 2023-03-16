@@ -36,3 +36,6 @@ is the solve with Java Stream API (forEach)
 __[Mini-Max Sum](https://www.hackerrank.com/challenges/one-week-preparation-kit-mini-max-sum)__
 * Solve with Collections.sort and add custom function sum with 2 arguments List<Integer> and boolean marker
 
+__[Time Conversion](https://www.hackerrank.com/challenges/one-week-preparation-kit-time-conversion)__
+* Solve with if-else construction and String.format
+
