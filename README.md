@@ -42,3 +42,6 @@ __[Time Conversion](https://www.hackerrank.com/challenges/one-week-preparation-k
 __[Find_Median](https://www.hackerrank.com/test/eoipgdk427n/login?b=eyJocnNjIjp0cnVlLCJocnNjX3NyYyI6ImpvYnNhcHAiLCJoaWRlIjp0cnVlLCJqb2JfaWQiOm51bGwsInVzZXJuYW1lIjoiZWt5ZDkxQG1haWwucnUiLCJwYXNzd29yZCI6ImJhNjVlMzJkIiwiaGlkZVN3aXRjaEFjY291bnQiOnRydWUsImhpZGVTaGFyZUhhY2tlclByb2ZpbGUiOnRydWUsImFjY29tbW9kYXRpb25zIjpudWxsfQ==)__
 * Simple solve with Collections.sort
 
+__[Pattern_Syntax_Checker](https://www.hackerrank.com/challenges/pattern-syntax-checker)__
+* Simple solve with try/catch block and Pattern.compile
+
