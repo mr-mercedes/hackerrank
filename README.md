@@ -48,3 +48,8 @@ __[Pattern_Syntax_Checker](https://www.hackerrank.com/challenges/pattern-syntax-
 
 __[Java_Regex](https://www.hackerrank.com/challenges/java-regex)__
 * Regular expression 
+
+17.03.2023
+--
+__[Lonely Integer](https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer)__
+* BrutForce solve (return)
