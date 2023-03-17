@@ -53,3 +53,6 @@ __[Java_Regex](https://www.hackerrank.com/challenges/java-regex)__
 --
 __[Lonely Integer](https://www.hackerrank.com/challenges/one-week-preparation-kit-lonely-integer)__
 * BrutForce solve (return)
+
+__[Diagonal_Difference](https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference)__
+* Solve in algorithm difficult O(n)
