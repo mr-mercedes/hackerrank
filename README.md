@@ -56,3 +56,6 @@ __[Lonely Integer](https://www.hackerrank.com/challenges/one-week-preparation-ki
 
 __[Diagonal_Difference](https://www.hackerrank.com/challenges/one-week-preparation-kit-diagonal-difference)__
 * Solve in algorithm difficult O(n)
+
+__[Counting_Sort_1](https://www.hackerrank.com/challenges/one-week-preparation-kit-countingsort1)__
+* Solve with Integer[] array and Arrays.fill
